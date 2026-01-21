@@ -44,3 +44,5 @@ No `.env` file needed! Add these secrets in GitHub repository settings (Settings
 - ✅ Security alerts in GitHub Security tab
 
 Secrets are passed directly to docker-compose as environment variables in the workflow.
+
+this is test
